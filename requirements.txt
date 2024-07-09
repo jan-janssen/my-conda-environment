@@ -4,7 +4,7 @@ black==24.4.2
 coverage==7.5.4
 dynaphopy==1.17.15
 gmailsorter==0.1.3
-grayskull==2.5.3
+grayskull==2.6.0
 gunicorn==22.0.0
 h5io==0.2.3
 h5io_browser==0.0.15
